@@ -1,0 +1,21 @@
+{
+  "name": "linkedin-signin-with-openid",
+  "version": "1.0.0",
+  "description": "A Sign In with LinkedIn using OpenID Connect Test using Nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "node --watch ."
+  },
+  "keywords": [],
+  "author": "Alex Marin Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "qs": "^6.12.1"
+  }
+}
